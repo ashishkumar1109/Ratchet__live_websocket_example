@@ -1,0 +1,5 @@
+{  
+  "require": {
+    "romainrg/ratchet_client": "^1.0.0"
+  }
+}
